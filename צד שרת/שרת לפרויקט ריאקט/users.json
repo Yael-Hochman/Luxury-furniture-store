@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "esti",
+      "email": "esti@example.com",
+      "phone": "052786696",
+      "password": "as2345",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "username": "lea",
+      "email": "lea@example.com",
+      "phone": "055252525",
+      "password": "lc65df",
+      "isAdmin": true
+    },
+    {
+      "id": 3,
+      "username": "shoshi",
+      "email": "shoshi@example.com",
+      "phone": "052786657567696",
+      "password": "zx2351",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "username": "yael",
+      "email": "yael@example.com",
+      "phone": "0527866546696",
+      "password": "vb7465",
+      "isAdmin": false
+    },
+    {
+      "id": 5,
+      "username": "חגית",
+      "email": "nkk@gmail.com",
+      "phone": "0859243464",
+      "password": "hg9856f6",
+      "isAdmin": false
+    },
+    {
+      "id": 6,
+      "username": "yaelll",
+      "email": "nkkvbj@gmail.com",
+      "phone": "0548796532",
+      "password": "123jgh",
+      "isAdmin": false
+    },
+    {
+      "id": 7,
+      "username": "תמררר",
+      "email": "m0548473940@gmail.com",
+      "phone": "0548796532",
+      "password": "hfuekf",
+      "isAdmin": false
+    },
+    {
+      "id": 8,
+      "username": "מירי חמדי",
+      "email": "FGHJk@gmail.com",
+      "phone": "0548963267",
+      "password": "CVBNM,",
+      "isAdmin": false
+    },
+    {
+      "id": 9,
+      "username": "FGHJK",
+      "email": "FBJJGHJk@gmail.com",
+      "phone": "0549632689",
+      "password": "xvDLrRbe:Ez4Y9a",
+      "isAdmin": false
+    },
+    {
+      "id": 10,
+      "username": "נועה הוכמן",
+      "email": "noa@gmail.com",
+      "phone": "0504155555",
+      "password": "111111",
+      "isAdmin": false
+    },
+    {
+      "id": 11,
+      "username": "hdjsnwekjk",
+      "email": "frejnfrnw@gmail.com",
+      "phone": "0548479326",
+      "password": "fbjhf2336",
+      "isAdmin": false
+    }
+  ]
+}

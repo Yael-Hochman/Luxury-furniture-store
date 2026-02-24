@@ -1,0 +1,334 @@
+[
+  {
+    "id": 101,
+    "name": "כורסה מודרנית",
+    "description": "כורסה נעימה עם כרית נשלפת",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 5
+  },
+  {
+    "id": 102,
+    "name": "שולחן קפה עגול",
+    "description": "שולחן עץ טבעי בעיצוב פשוט",
+    "price": 750,
+    "image": "https://images.unsplash.com/photo-1505692794403-ec24075e0b09?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 10
+  },
+  {
+    "id": 103,
+    "name": "מנורת שולחן וינטג'",
+    "description": "מנורת שולחן בסגנון וינטג' עם גוון זהב",
+    "price": 320,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 8
+  },
+  {
+    "id": 104,
+    "name": "מדף עץ תלוי",
+    "description": "מדף עץ אלון לתלייה על הקיר",
+    "price": 430,
+    "image": "https://images.unsplash.com/photo-1560448075-39e1c13a1a4f?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 12
+  },
+  {
+    "id": 105,
+    "name": "שטיח עגול צמר",
+    "description": "שטיח עגול בצבעי אפור לבן",
+    "price": 900,
+    "image": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 7
+  },
+  {
+    "id": 106,
+    "name": "כיסא אוכל מודרני",
+    "description": "כיסא נוח עם רגלי עץ",
+    "price": 480,
+    "image": "https://images.unsplash.com/photo-1549187774-b4e9ff3c6d5e?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 15
+  },
+  {
+    "id": 107,
+    "name": "וילון שקוף לבן",
+    "description": "וילון אור לבן שקוף לנעימות בחדר",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 20
+  },
+  {
+    "id": 108,
+    "name": "שולחן אוכל עץ מלא",
+    "description": "שולחן עץ מלא גדול למשפחה",
+    "price": 2500,
+    "image": "https://images.unsplash.com/photo-1572120360610-d971b9b105b6?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 4
+  },
+  {
+    "id": 109,
+    "name": "מנורת תקרה מעוצבת",
+    "description": "מנורת תקרה מודרנית בצבע שחור",
+    "price": 600,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 9
+  },
+  {
+    "id": 110,
+    "name": "ארון בגדים רחב",
+    "description": "ארון בגדים מעץ מלא עם דלתות הזזה",
+    "price": 3400,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 6
+  },
+  {
+    "id": 111,
+    "name": "כורסה קטנה לפינת קריאה",
+    "description": "כורסה קטנה ונוחה עם בד רך",
+    "price": 850,
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 8
+  },
+  {
+    "id": 112,
+    "name": "שולחן עבודה מינימליסטי",
+    "description": "שולחן עבודה מודרני עם רגלי מתכת",
+    "price": 950,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 11
+  },
+  {
+    "id": 113,
+    "name": "מנורת רצפה",
+    "description": "מנורה גבוהה לרצפה עם כיוון אור גמיש",
+    "price": 540,
+    "image": "https://images.unsplash.com/photo-1547721064-da6cfb341d50?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 10
+  },
+  {
+    "id": 114,
+    "name": "כיסוי לספה",
+    "description": "כיסוי בד נוח וקל לכיבוס",
+    "price": 300,
+    "image": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 14
+  },
+  {
+    "id": 115,
+    "name": "מראה מעוצבת",
+    "description": "מראה עגולה עם מסגרת עץ",
+    "price": 400,
+    "image": "https://images.unsplash.com/photo-1544441896-c9b099a54e8a?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 7
+  },
+  {
+    "id": 116,
+    "name": "שולחן צד לסלון",
+    "description": "שולחן צד עץ אלון קטן",
+    "price": 350,
+    "image": "https://images.unsplash.com/photo-1541447273860-0e0691934db7?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 13
+  },
+  {
+    "id": 117,
+    "name": "כורסה מתכווננת",
+    "description": "כורסה עם אפשרות שינה מתכווננת",
+    "price": 1300,
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 6
+  },
+  {
+    "id": 118,
+    "name": "מדף ספרים עץ טבעי",
+    "description": "מדף ספרים מעוצב בעץ מלא",
+    "price": 670,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 9
+  },
+  {
+    "id": 119,
+    "name": "שולחן קונסולה",
+    "description": "שולחן צר לפינת הכניסה לבית",
+    "price": 490,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 8
+  },
+  {
+    "id": 120,
+    "name": "כיסוי לכריות נוי",
+    "description": "כיסוי כרית עם הדפסים צבעוניים",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1544441896-c9b099a54e8a?auto=format&fit=crop&w=600&q=80",
+    "stockQuantity": 20
+  },
+  {
+    "id": 1,
+    "name": "מנורה מודרנית",
+    "description": "מנורה בעיצוב מודרני עם אור חם ונעים",
+    "price": 120.5,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 10
+  },
+  {
+    "id": 2,
+    "name": "כורסא נוחה",
+    "description": "כורסא רכה ומפנקת עם בד איכותי",
+    "price": 550.0,
+    "image": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 5
+  },
+  {
+    "id": 3,
+    "name": "שולחן קפה עץ",
+    "description": "שולחן קפה מעץ מלא בעיצוב כפרי",
+    "price": 350.9,
+    "image": "https://images.unsplash.com/photo-1505691723518-36a37f0d5f69?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 7
+  },
+  {
+    "id": 4,
+    "name": "מדף ספרים מתכת",
+    "description": "מדף ספרים חזק ויציב עם גימור מתכתי",
+    "price": 230.0,
+    "image": "https://images.unsplash.com/photo-1520880867055-1e30d1cb001c?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 12
+  },
+  {
+    "id": 5,
+    "name": "וילון שחור",
+    "description": "וילון איכותי בצבע שחור",
+    "price": 90.75,
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 20
+  },
+
+  {
+    "id": 6,
+    "name": "שטיח עגול",
+    "description": "שטיח בעיצוב מודרני, עגול ומרווח",
+    "price": 175.0,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 15
+  },
+  {
+    "id": 7,
+    "name": "מראה קיר",
+    "description": "מראה מעוצבת עם מסגרת עץ",
+    "price": 220.0,
+    "image": "https://images.unsplash.com/photo-1529429617314-8f72ab4052c1?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 8
+  },
+  {
+    "id": 8,
+    "name": "ספה זוגית",
+    "description": "ספה זוגית נוחה עם בד איכותי",
+    "price": 1200.0,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 4
+  },
+  {
+    "id": 9,
+    "name": "שידה קטנה",
+    "description": "שידה מעץ מלא עם שתי מגירות",
+    "price": 450.5,
+    "image": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 9
+  },
+  {
+    "id": 10,
+    "name": "סט כוסות קפה",
+    "description": "סט כוסות קרמיקה לאירוח",
+    "price": 75.0,
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 30
+  },
+
+  {
+    "id": 11,
+    "name": "מנורת לילה",
+    "description": "מנורת לילה קטנה עם אור רך",
+    "price": 55.0,
+    "image": "https://images.unsplash.com/photo-1505692794403-9c7f25f0b16c?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 18
+  },
+  {
+    "id": 12,
+    "name": "כיסא אוכל",
+    "description": "כיסא עץ בעיצוב מודרני",
+    "price": 180.0,
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 22
+  },
+  {
+    "id": 13,
+    "name": "סט כלי אוכל",
+    "description": "סט כלים מעוצבים לארוחת ערב",
+    "price": 150.0,
+    "image": "https://images.unsplash.com/photo-1511689987-59d1c9f34d41?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 25
+  },
+  {
+    "id": 14,
+    "name": "וויטרינה מעץ",
+    "description": "וויטרינה עם דלתות זכוכית",
+    "price": 750.0,
+    "image": "https://images.unsplash.com/photo-1499914485622-a88fac536eba?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 6
+  },
+  {
+    "id": 15,
+    "name": "סט מצעים זוגי",
+    "description": "סט מצעים מפנק מבד איכותי",
+    "price": 320.0,
+    "image": "https://images.unsplash.com/photo-1508253578933-40ce35a8c0c5?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 13
+  },
+
+  {
+    "id": 16,
+    "name": "כיסוי לספה",
+    "description": "כיסוי בד איכותי לספה",
+    "price": 95.0,
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 14
+  },
+  {
+    "id": 17,
+    "name": "שעון קיר",
+    "description": "שעון קיר מודרני עם עיצוב מינימליסטי",
+    "price": 130.0,
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 19
+  },
+  {
+    "id": 18,
+    "name": "וילון לבן",
+    "description": "וילון לבן שקוף למראה נקי",
+    "price": 85.0,
+    "image": "https://images.unsplash.com/photo-1505692794403-9c7f25f0b16c?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 17
+  },
+  {
+    "id": 19,
+    "name": "מנורת רצפה",
+    "description": "מנורה גבוהה עם גוף מתכת",
+    "price": 270.0,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 10
+  },
+  {
+    "id": 20,
+    "name": "כורסה עור",
+    "description": "כורסה מפנקת עם עור אמיתי",
+    "price": 1150.0,
+    "image": "https://images.unsplash.com/photo-1505691723518-36a37f0d5f69?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 3
+  },
+
+  {
+    "id": 21,
+    "name": "שולחן אוכל",
+    "description": "שולחן אוכל מעץ מלא",
+    "price": 1100.0,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=500&q=80",
+    "stockQuantity": 5
+  }
+]

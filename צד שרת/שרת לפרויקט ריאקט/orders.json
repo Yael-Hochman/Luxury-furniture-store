@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "items": [
+      {
+        "id": 21,
+        "name": "שולחן אוכל",
+        "description": "שולחן אוכל מעץ מלא",
+        "price": 1100,
+        "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=500&q=80",
+        "stockQuantity": 5,
+        "qty": 3
+      }
+    ],
+    "totalAmount": 3300,
+    "date": "2025-05-25T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "items": [
+      {
+        "id": 10,
+        "name": "סט כוסות קפה",
+        "description": "סט כוסות קרמיקה לאירוח",
+        "price": 75,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=500&q=80",
+        "stockQuantity": 30,
+        "qty": 1
+      },
+      {
+        "id": 12,
+        "name": "כיסא אוכל",
+        "description": "כיסא עץ בעיצוב מודרני",
+        "price": 180,
+        "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=500&q=80",
+        "stockQuantity": 22,
+        "qty": 1
+      }
+    ],
+    "totalAmount": 255,
+    "date": "2025-05-25T10:01:00.000Z"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "items": [
+      {
+        "id": 101,
+        "name": "כורסה מודרנית",
+        "price": 1200,
+        "qty": 1
+      },
+      {
+        "id": 102,
+        "name": "שולחן קפה עגול",
+        "price": 750,
+        "qty": 3
+      }
+    ],
+    "totalAmount": 3450,
+    "date": "2025-05-25T10:02:17.412Z"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "items": [
+      {
+        "id": 101,
+        "name": "כורסה מודרנית",
+        "price": 1200,
+        "qty": 1
+      },
+      {
+        "id": 102,
+        "name": "שולחן קפה עגול",
+        "price": 750,
+        "qty": 3
+      }
+    ],
+    "totalAmount": 3450,
+    "date": "2025-05-25T10:10:53.599Z"
+  },
+  {
+    "id": 5,
+    "userId": 1,
+    "items": [
+      {
+        "id": 102,
+        "name": "שולחן קפה עגול",
+        "price": 750,
+        "qty": 1
+      },
+      {
+        "id": 106,
+        "name": "כיסא אוכל מודרני",
+        "price": 480,
+        "qty": 1
+      }
+    ],
+    "totalAmount": 1230,
+    "date": "2025-05-26T20:28:01.719Z"
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "items": [
+      {
+        "id": 101,
+        "name": "כורסה מודרנית",
+        "price": 1200,
+        "qty": 1
+      },
+      {
+        "id": 102,
+        "name": "שולחן קפה עגול",
+        "price": 750,
+        "qty": 1
+      }
+    ],
+    "totalAmount": 1950,
+    "date": "2025-05-26T20:51:09.545Z"
+  },
+  {
+    "id": 7,
+    "userId": 1,
+    "items": [
+      {
+        "id": 101,
+        "name": "כורסה מודרנית",
+        "price": 1200,
+        "qty": 1
+      }
+    ],
+    "totalAmount": 1200,
+    "date": "2025-05-26T20:56:36.341Z"
+  }
+]
