@@ -44,5 +44,5 @@ node server.js
 cd "FinalProject2/vite-project"
 npm install
 npm run dev
-
+```
 Developed by Yael Berger - Entry-level Software Engineer specialized in React and Node.js.
